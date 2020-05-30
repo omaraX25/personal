@@ -1,0 +1,36 @@
+
+
+ /* text color*/
+ .navbar-dark .navbar-nav .show > .nav-link, .navbar-dark .navbar-nav .active > .nav-link,
+ .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .nav-link.active , .container h4 , 
+  .works li,.navbar-brand span,.vi3 p  span,.card1 h5 ,.stat p {  color:black}
+ 
+/* background color*/
+.dropdown-item:hover, 
+.carousel-indicators  li,.po,
+.carousel-inner .h1 span, .con2 button ,.works ul a .activ ,  .fu i ,.works ul a :hover
+,.btn-secondary.dropdown-toggle,.btn-secondary ,.btn-secondary:hover,.vi3 button,.viw.btn-secondary:not(:disabled):not(.disabled):active,
+.btn-secondary:not(:disabled):not(.disabled).active, .show > .btn-secondary.dropdown-toggle
+,.po:hover,footer button,.contact ,.copp a:hover,.copp a ,.ca2 p,.price .btn , .card1 .btn,
+.option-box i, .option-box  ul li
+{ background-color: black}
+
+ 
+ /*border*/
+  .card1 .btn,.price .btn ,
+  .vi3 button ,footer button ,.works li,.works ul a .activ{  border: 2px solid black }
+ 
+ .dropdown-divider{    border-top: 2px solid black }
+ 
+ .con2 button {    border: 1px solid black }  
+ 
+ .btn-secondary{  border: black }
+         
+  
+  
+border-bottom: 2px solid black}
+
+.option-box .color-option{ border: 3px solid black}
+
+     .menu span { color: black; }
+ /*end border*
